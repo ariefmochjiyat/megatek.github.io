@@ -9,3 +9,26 @@ body {
 #iconBurger {
 	color: white !important;
 }
+
+#megatek_logo {
+	margin-top: -5px !important;
+}
+
+#img_marketing {
+	background-color: #010C1F !important;
+	padding: 5px !important;
+}
+
+#font_color {
+	color: #010C1F !important;
+}
+
+#footer {
+	background-color: white !important;
+	margin-bottom: -50px !important;
+	margin-top: -50px !important;
+}
+
+#medsos {
+	margin-top: -20px !important;
+}
